@@ -9,7 +9,7 @@ resume_file=current_dir/"Assests"/"Avinaash Venkat Resume (3).pdf"
 profile_pic=current_dir/"Assests"/"imageavi.png"
 PAGE_TITLE="Digital CV |🧪Avinaash Venkat🧪"
 PAGE_ICON=":👾"
-NAME="⚡AvinaashVenkat⚡"
+NAME="⚡Avinaash   Venkat⚡"
 DESCRIPTION="""
 A final year Student with a passion to achieve my dreams and goals.
 Currenlty Desired to learn DSA and other tech stack !!!!
@@ -179,7 +179,7 @@ with st.container():
     st.write("##")
 contact_form="""
 <form action="https://formsubmit.co/bass.avinaashvenkat@gmail.com" method="POST">
-     <input type="text" name="name" placeholder="Your Name" required>
+     <input type="text" name="name" placeholder="Your Name and Query" required>
      <input type="hidden" name="_captcha" value="false">
      <input type="email" name="email"placeholder="Your E-mail" required>
      <button type="submit">Send</button>
