@@ -9,10 +9,10 @@ resume_file=current_dir/"Assests"/"Avinaash Venkat Resume (3).pdf"
 profile_pic=current_dir/"Assests"/"imageavi.png"
 PAGE_TITLE="Digital CV |🧪Avinaash Venkat🧪"
 PAGE_ICON=":👾"
-NAME="Avinaash Venkat"
+NAME="⚡Avinaash   Venkat⚡"
 DESCRIPTION="""
 A final year Student with a passion to achieve my dreams and goals.
-Currenlty Desired to learn DSA and other tech stack !!!!
+Currently Desired to learn DSA and other tech stack !!!!
 """
 EMAIL="bass.avinaashvenkat@gmail.com"
 SOCIAL_MEDIA={
@@ -61,7 +61,7 @@ st.write("#")
 st.subheader("Experience & Qualifications")
 st.write(
     """
--⚡Interned as a Content Developer in TriHusLab and worked as a Web designer and Devloper
+-⚡Interned as a Content Developer in TriHusLab and worked as a Web designer and Developer
 
 -⚡Having Knowledge in working with Python and its Modules
 
